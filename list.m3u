@@ -153,3 +153,5 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Disney Jr.png" group-title="Infantil",Disney Jr
 https://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.imgur.com/yIWl4a5.png" group-title="Noticias",C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
