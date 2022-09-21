@@ -34,19 +34,19 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
 #EXTINF:-20 tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
-https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
 #EXTINF:-21 tvg-logo="http://www.plexmx.club/canales/429.png" group-title="PREMIUM", HBO2
-https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
 #EXTINF:-22 tvg-logo="http://www.plexmx.club/canales/430.png" group-title="PREMIUM", HBO family
-https://cvi.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 
 #EXTINF:-23 tvg-logo="http://www.plexmx.club/canales/432.png" group-title="PREMIUM", HBO Pop
 https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 
 #EXTINF:-24 tvg-logo="http://www.plexmx.club/canales/431.png" group-title="PREMIUM", HBO Plus
-https://edge3.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 
 #EXTINF:-25 tvg-logo="http://www.plexmx.club/canales/435.png" group-title="PREMIUM", HBO Mundi
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
@@ -122,3 +122,33 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV.png" group-title="Musica",MTV
 https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN.png" group-title="Deportes",ESPN
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Extra.png" group-title="Deportes",ESPN Extra
+https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Premium.png" group-title="Deportes",ESPN Premium
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 2.png" group-title="Deportes",ESPN 2
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 3.png" group-title="Deportes",ESPN 3
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FOX SPORTS PREMIUM.png" group-title="Deportes",FOX SPORTS PREMIUM
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports.png" group-title="Deportes",Fox Sports
+https://ed33.zorrohd2.nl/live/flowitcj1qx.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 2.png" group-title="Deportes",Fox Sports 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 3.png" group-title="Deportes",Fox Sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",ANIMAL PLANET HD
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
