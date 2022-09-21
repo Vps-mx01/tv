@@ -97,7 +97,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3
 https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
 
 #EXTINF:-61 tvg-logo="http://www.plexmx.club/canales/107.png" group-title="PREMIUM", Discovery Kids
-https://coop-montehermoso.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+https://coop-montehermoso.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Dis
 
 #EXTINF:-64 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="PREMIUM", Nickelodeon
 https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
@@ -113,3 +113,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE 
 https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/w480/ver-boomerang-en-vivo.png" group-title="(INFANTIL)" , BOOMERANG 
+https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="Argentina", LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
